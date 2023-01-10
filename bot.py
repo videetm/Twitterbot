@@ -4,8 +4,8 @@ import time
 consumer_key = 'FVxmHgq4SpfM6A0kdN8JRr3Rd'
 consumer_secret = 'yshimrDc4edmltLhvjOmsaMAv8cf7S5VxgOuY2i17omeccbsLb'
 
-key = '1037431700081582085-qbhNIDPJo0eWxdqm70BoFKJ3DAkvcV'
-secret = 'd1JKEMfLQcRiyEvf9s1IBCtjIqCbEa5j4TeoRcocesvIV'
+key = 'enter'
+secret = 'enter secret key'
 
 
 
