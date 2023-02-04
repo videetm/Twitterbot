@@ -6,8 +6,8 @@
 * ✅ replies with cute 😸 pics when you ＠ it.
 * ✅ never disappoints :)
 
-## 🔨  How did I built it? 
+## 🔨  How did I build it? 
 
-* ✅ use tweepy library for account authentication.
+* ✅ use python tweepy library for account authentication.
 * ✅ utilizes twitter api 2.0 methods for posting and replying.
 
